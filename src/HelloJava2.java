@@ -6,5 +6,6 @@ public class HelloJava2 {
         System.out.println("hello java4");
         System.out.println("hello java5");
         System.out.println("hello java6");
+        System.out.println("hello java7");
     }
 }
